@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.-
 Name:		texlive-abraces
-Version:	1..
-Release:	1
+Version:	1
+Release:	2
 Summary:	Asymmetric over-/underbraces in maths
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/abraces
