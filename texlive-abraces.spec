@@ -6,7 +6,7 @@
 # catalog-version 1.-
 Name:		texlive-abraces
 Version:	1
-Release:	3
+Release:	4
 Summary:	Asymmetric over-/underbraces in maths
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/abraces
